@@ -1,0 +1,9 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "name": "Teerthlok",
+  "description": "Teerthlok is an advanced AI-powered spiritual and tourism platform designed to transform the way pilgrims and travelers explore sacred destinations. Built with cutting-edge technology, Teerthlok seamlessly blends faith, culture, and innovation to provide a safe, intelligent, and deeply meaningful pilgrimage experience.\n\nThe platform offers smart route planning, real-time navigation, multilingual AI chat and voice assistance, virtual darshan, and personalized travel guidance, all in one unified ecosystem. Whether a user is planning a holy yatra, seeking spiritual knowledge, or navigating a destination in real time, Teerthlok acts as a trusted digital companion.\n\nWith a strong focus on elderly-friendly design, accessibility, and safety, Teerthlok ensures that spiritual journeys are comfortable and inclusive for everyone. Its AI-driven insights and analytics also empower government bodies and tourism authorities to manage crowds, improve infrastructure, and enhance overall pilgrimage experiences.\n\nTeerthlok is not just a travel platform—it is a national-scale digital infrastructure that preserves spiritual heritage while embracing the future of intelligent tourism.\n\n✨ Key Highlights\n\n🤖 Multilingual AI Chat & Voice Assistant\n\n🗺️ Smart Maps, Live Navigation & Crowd Prediction\n\n🥽 VR & 360° Virtual Darshan\n\n🕉️ Spiritual Knowledge, Ritual Guidance & History\n\n📊 Government & Admin Analytics Dashboard\n\n🔐 Secure, Scalable & Privacy-First Architecture"
+}
